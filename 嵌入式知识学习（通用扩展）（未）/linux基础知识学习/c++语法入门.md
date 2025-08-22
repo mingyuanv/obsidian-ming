@@ -349,10 +349,38 @@ source:
 ### 8、
 
 
-# 五、
+# 五、其他
 
 ## 
-### 1 、
+### 1 、`extern "C"`
+> 在 **C++ 代码中调用 C 语言编写的函数**（如标准库函数 `printf`），需要通过 `extern "C"` 告诉编译器不要对这些函数进行名称改编，以确保链接器能找到正确的符号。
+
+#### 1. 单个函数声明**
+
+```c++
+extern "C" int printf(const char*, ...);
+```
+这表示 `printf` 函数是用 C 语言编写的，编译器会以 C 的链接约定处理它。
+#### 2. 多个函数声明**
+```c++
+extern "C" {
+	int printf(const char*, ...);
+	int scanf(const char*, ...);
+}
+```
+这表示括号内的所有函数都使用 C 的链接约定。
+#### 3. 包含头文件**  
+当需要调用 C 标准库函数时，通常直接包含对应的 C++ 头文件（如 `<cstdio>`），这些头文件内部已经用 `extern "C"` 包裹了声明。例如：
+```c++
+#include <cstdio>  // C++ 标准库的 C 风格头文件
+```
+
+如果手动包含 C 的头文件（如 `<stdio.h>`），则需要显式用 `extern "C"` 包裹：
+```c++
+extern "C" {
+	#include <stdio.h>
+}
+```
 
 
 ### 2 、
@@ -379,7 +407,19 @@ source:
 
 
 
-## 
+## GCC C++语言扩展
+
+### interface和 pragmas
+
+`#pragma para `
+
+[https://www.cnblogs.com/zhoug2020/p/6616942.html](https://www.cnblogs.com/zhoug2020/p/6616942.html)  
+[https://gcc.gnu.org/onlinedocs/gcc-11.4.0/gcc/C\_002b\_002b-Interface.html](https://gcc.gnu.org/onlinedocs/gcc-11.4.0/gcc/C_002b_002b-Interface.html)
+
+### Template
+
+C++ 是 language feature
+
 ### 1 、
 
 

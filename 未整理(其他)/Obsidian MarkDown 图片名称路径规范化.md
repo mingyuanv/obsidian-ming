@@ -1,25 +1,9 @@
 ![](https://zhuanlan.zhihu.com/p/30892308149)  
 
-[](https://www.zhihu.com/)
+[Fetching Data#08fn](https://www.zhihu.com/column/c_1880284673852289867)
 
-- [首页](https://www.zhihu.com/)
-- [
-    
-    知乎直答
-    
-    焕新
-    
-    
-    
-    ](https://www.zhihu.com/zhida)
-- [知乎知学堂](https://www.zhihu.com/education/learning)
-- [等你来答](https://www.zhihu.com/question/waiting)
 
-​
 
-提问
-
-​
 
 80
 
