@@ -10,7 +10,7 @@ description:
 <span style="background:#fdbfff">四个必要驱动对应硬件接口同pike板一样，编译方式也一样。</span>
 
 ## make strip命令的遍写
-[[嵌入式知识学习（通用扩展）（未）/linux基础知识学习/linux命令#命令脚本遍写]]
+[[嵌入式知识学习（通用扩展）/linux基础知识/linux命令#命令脚本遍写]]
 
 # 一、音频驱动(audio.ko)
 

@@ -118,7 +118,7 @@ description:
 
 
 ### 4 、通用SPI外设代码框架
-[[通用SPI外设代码框架.canvas|通用SPI外设代码框架]]
+[[RK3568（linux学习）/驱动子系统思维导图/通用SPI外设代码框架.canvas|通用SPI外设代码框架]]
 
 ### 5、
 

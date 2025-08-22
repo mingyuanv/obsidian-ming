@@ -563,5 +563,5 @@ description:
 [“25.通过setsockopt设置其他选项（了解）”页上的图片](onenote:https://d.docs.live.net/52d4b76bb0ffcf51/Documents/\(RK3568\)Linux驱动开发/第二十一期_CAN.one#25.通过setsockopt设置其他选项（了解）&section-id={3E3C5C7E-6AAD-42D9-8C3C-1A10B95E5E78}&page-id={A9CBA658-C6A7-4B5C-B1C5-AAA4E9547D2F}&object-id={7CBC816E-2161-065E-00B9-10CBC778E865}&C4)  ([Web 视图](https://onedrive.live.com/view.aspx?resid=52D4B76BB0FFCF51%21se8c325913f784bf694d429e5ee2ab2be&id=documents&wd=target%28%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%9C%9F_CAN.one%7C3E3C5C7E-6AAD-42D9-8C3C-1A10B95E5E78%2F25.%E9%80%9A%E8%BF%87setsockopt%E8%AE%BE%E7%BD%AE%E5%85%B6%E4%BB%96%E9%80%89%E9%A1%B9%EF%BC%88%E4%BA%86%E8%A7%A3%EF%BC%89%7CA9CBA658-C6A7-4B5C-B1C5-AAA4E9547D2F%2F%29&wdpartid=%7b477C2AB1-91A4-47E4-AAD4-2DBC7AADA0A2%7d%7b1%7d&wdsectionfileid=52D4B76BB0FFCF51!s61ee53f41ca34280abc336f967164858))
 
 ## can应用编程框架图
-[[can应用编程-发送和接受can帧.canvas|can应用编程-发送和接受can帧]]
+[[RK3568（linux学习）/驱动子系统思维导图/can应用编程-发送和接受can帧.canvas|can应用编程-发送和接受can帧]]
 

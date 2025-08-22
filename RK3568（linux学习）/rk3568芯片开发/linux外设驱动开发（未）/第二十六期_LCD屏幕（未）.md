@@ -217,7 +217,7 @@ description:
 [“7.RGB屏幕移植（1）”页上的图片](onenote:https://d.docs.live.net/52d4b76bb0ffcf51/Documents/\(RK3568\)Linux驱动开发/第二十六期_LCD.one#7.RGB屏幕移植（1）&section-id={941C41F9-0C10-42B9-BBD5-4E4ABC5B7873}&page-id={7B3BCF9C-C9FF-43DF-B561-511F47D353FA}&object-id={784D08EE-A3F6-4FEE-A3F7-A02A85D2F9F6}&8F)  ([Web 视图](https://onedrive.live.com/view.aspx?resid=52D4B76BB0FFCF51%21se8c325913f784bf694d429e5ee2ab2be&id=documents&wd=target%28%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AD%E6%9C%9F_LCD.one%7C941C41F9-0C10-42B9-BBD5-4E4ABC5B7873%2F7.RGB%E5%B1%8F%E5%B9%95%E7%A7%BB%E6%A4%8D%EF%BC%881%EF%BC%89%7C7B3BCF9C-C9FF-43DF-B561-511F47D353FA%2F%29&wdpartid=%7b10BAF5D9-14C8-4131-9872-8CBA375BB7C6%7d%7b1%7d&wdsectionfileid=52D4B76BB0FFCF51!s70abb153b86e4f5dbc7f8b1f144f1014))
 
 ### 10、RGB设备树节点之间的关系
-[[RGB设备树节点之间的关系.canvas|RGB设备树节点之间的关系]]
+[[RK3568（linux学习）/驱动子系统思维导图/RGB设备树节点之间的关系.canvas|RGB设备树节点之间的关系]]
 
 ## RGB屏幕移植（2）- 配置具体的管脚
 ### 1 、用宏控制设备数节点

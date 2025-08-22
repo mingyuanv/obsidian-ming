@@ -105,7 +105,7 @@ description:
 [“7.pwm子系统API框架”页上的图片](onenote:https://d.docs.live.net/52d4b76bb0ffcf51/Documents/\(RK3568\)Linux驱动开发/第十八期_PWM.one#7.pwm子系统API框架&section-id={8DD134BB-D1A9-4D53-BF9D-0870D4E81CAF}&page-id={55F86864-E8C1-49AB-B6D6-0C4206629D42}&object-id={B8B9BF1C-ACE8-0716-0A70-5C1AFE43DDB9}&12)  ([Web 视图](https://onedrive.live.com/view.aspx?resid=52D4B76BB0FFCF51%21se8c325913f784bf694d429e5ee2ab2be&id=documents&wd=target%28%E7%AC%AC%E5%8D%81%E5%85%AB%E6%9C%9F_PWM.one%7C8DD134BB-D1A9-4D53-BF9D-0870D4E81CAF%2F7.pwm%E5%AD%90%E7%B3%BB%E7%BB%9FAPI%E6%A1%86%E6%9E%B6%7C55F86864-E8C1-49AB-B6D6-0C4206629D42%2F%29&wdpartid=%7bF53CD148-785B-40D7-B300-9A07CF61B340%7d%7b1%7d&wdsectionfileid=52D4B76BB0FFCF51!s728676b55b744b9190f3d6fab0523e87))
 
 ### 4 、PWM驱动程序框架
-[[PWM驱动程序框架.canvas|PWM驱动程序框架]]
+[[RK3568（linux学习）/驱动子系统思维导图/PWM驱动程序框架.canvas|PWM驱动程序框架]]
 
 ### 5、
 

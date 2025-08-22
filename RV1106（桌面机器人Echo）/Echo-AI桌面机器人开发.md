@@ -265,7 +265,7 @@ AIChat_frame_duration=40
 
 
 ### 获取api key
-[[linux开发工具软件#2、cursor]]
+[[嵌入式知识学习（通用扩展）/linux基础知识/linux开发工具软件#2、cursor]]
 - 1 Qwen：Qwen3 4B（免费）阿里云
 - 2 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
 
