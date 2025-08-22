@@ -111,13 +111,13 @@ clear:
 
 ### 5、Makefile⼯作原理图解
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/Makefile语法学习/file-20250810171624367.png|Open: Pasted image 20250723200246.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/Makefile语法学习/file-20250810171624367.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/Makefile语法学习/file-20250810171624367.png)
+![RK3568（linux学习）/linux基础知识学习/assets/Makefile语法学习/file-20250810171624367.png](assets/Makefile语法学习/file-20250810171624367.png)
 
 
 
 ### 6、时间戳驱动（目标的时间必须晚于依赖条件的时间，否则更新目标）
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/Makefile语法学习/file-20250810171624744.png|Open: Pasted image 20250723201258.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/Makefile语法学习/file-20250810171624744.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/Makefile语法学习/file-20250810171624744.png)
+![RK3568（linux学习）/linux基础知识学习/assets/Makefile语法学习/file-20250810171624744.png](assets/Makefile语法学习/file-20250810171624744.png)
 
 > (base) topeet@ubuntu:~/test/Makefile$ `make
 > gcc -c hello.c -o hello.o -I ./
@@ -655,7 +655,7 @@ gcc main.o utils.o -o app
 - 1 Makefile是**构建描述语言**，通过 Shell 执行具体操作命令，同时拥有自己的语法体系（变量、函数、依赖规则）
 
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/Makefile语法学习/file-20250810171625011.png|Open: Pasted image 20250723165733.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/Makefile语法学习/file-20250810171625011.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/Makefile语法学习/file-20250810171625011.png)
+![RK3568（linux学习）/linux基础知识学习/assets/Makefile语法学习/file-20250810171625011.png](assets/Makefile语法学习/file-20250810171625011.png)
 
 
 

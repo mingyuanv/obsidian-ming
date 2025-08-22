@@ -16,16 +16,16 @@ source:
 ## Android系统架构
 ### 1 、 Android系统架构图
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415995.png|Open: Pasted image 20250728160542.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153232.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415995.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153232.png](assets/Android底层开发入门篇①/file-20250810172415995.png)
 
 ### 2 、Java通过虚拟机用JMI的形式来调用C中的库
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416026.png|Open: Pasted image 20250728161238.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153257.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416026.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153257.png](assets/Android底层开发入门篇①/file-20250810172416026.png)
 
 
 ### 3 、安卓系统分层
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416070.png|Open: Pasted image 20250728161334.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153288.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416070.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153288.png](assets/Android底层开发入门篇①/file-20250810172416070.png)
 
 - 1 一些真正敏感的厂商不愿意去开源的，像驱动的算法数据结构，它就放到了HAL层里面
 ### 4 、
@@ -99,7 +99,7 @@ lunch rk3568_r-userdebug
 
 ### 4 、编译命令讲解（build.sh脚本）
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416189.png|Open: Pasted image 20250728200847.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153350.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416189.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153350.png](assets/Android底层开发入门篇①/file-20250810172416189.png)
 
 #### Rockchip Android 11 SDK `build.sh` 编译选项详解表 
 
@@ -126,7 +126,7 @@ lunch rk3568_r-userdebug
 ## 认识瑞芯微Android11原厂BSP
 ### 1 、系统架构对应源码中的文件夹
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416351.png|Open: Pasted image 20250728200957.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153460.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416351.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153460.png](assets/Android底层开发入门篇①/file-20250810172416351.png)
 
 ### 2 、Android 11源码目录分析
 [Android 11源码目录结构](onenote:#6_认识瑞芯微Android11原厂BSP&section-id={168DFA21-8560-4CC5-8059-6E043AA24EB4}&page-id={46FF2B27-26C4-4CC7-B730-74D77D2A582F}&object-id={879061E1-CDD0-45A8-8E25-ABB0E082D918}&A&base-path=https://d.docs.live.net/52D4B76BB0FFCF51/Documents/\(RK3568\)Linux驱动开发/Android11系统移植.one)
@@ -141,10 +141,10 @@ lunch rk3568_r-userdebug
 ## RK3568芯片的引导流程
 ### 1 、Armv8 架构典型引导流程
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416395.png|Open: Pasted image 20250728202958.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153526.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416395.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153526.png](assets/Android底层开发入门篇①/file-20250810172416395.png)
 
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416469.png|Open: Pasted image 20250728203728.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153664.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416469.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153664.png](assets/Android底层开发入门篇①/file-20250810172416469.png)
 
 ### 2 、所有的不开源的东西都在这个文件夹放着
 > topeet@ubuntu:~/rk3568/`rk_android11.0_sdk_211130$ ls rkbin
@@ -154,7 +154,7 @@ bin  img  README  RKBOOT  RKBOOT.ini  RKTRUST  scripts  tools
 
 ### 3 、开发板上使用的引导流程（流程一）
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416595.png|Open: Pasted image 20250728204023.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153700.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416595.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153700.png](assets/Android底层开发入门篇①/file-20250810172416595.png)
 
 ### 4 、
 
@@ -189,7 +189,7 @@ bin  img  README  RKBOOT  RKBOOT.ini  RKTRUST  scripts  tools
 
 ### 4 、uboot烧录时有一个文件要改名（rk356x_spl_loader_v1.10.111.bin）
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416677.png|Open: Pasted image 20250728202525.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153807.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416677.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153807.png](assets/Android底层开发入门篇①/file-20250810172416677.png)
 
 - 1 MiniLoaderAll.bin
 ### 5、uboot下编译生成spl_loader.bin（不开源）的命令
@@ -199,7 +199,7 @@ pack loader ok.(rk356x_spl_loader_v1.10.111.bin)(0.02)
 pack loader okay! Input: /home/topeet/rk3568/rk_android11.0_sdk_211130/`rkbin/RKBOOT/RK3568MINIALL.ini
 /home/topeet/rk3568/rk_android11.0_sdk_211130/u-boot
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416825.png|Open: Pasted image 20250728204342.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153873.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416825.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153873.png](assets/Android底层开发入门篇①/file-20250810172416825.png)
 
 
 
@@ -207,7 +207,7 @@ pack loader okay! Input: /home/topeet/rk3568/rk_android11.0_sdk_211130/`rkbin/RK
 > topeet@ubuntu:~/rk3568/rk_android11.0_sdk_211130$ `vim rkbin/RKBOOT/RK3568MINIALL.ini
 
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416900.png|Open: Pasted image 20250728204707.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153973.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172416900.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153973.png](assets/Android底层开发入门篇①/file-20250810172416900.png)
 
 - 1 spl.bin的作用就是对内存的初始化    
 
@@ -282,15 +282,15 @@ version not support
 
 ### 4 、重新编译烧写spl_loader.bin（实验）
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417052.png|Open: Pasted image 20250728212725.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172154036.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417052.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172154036.png](assets/Android底层开发入门篇①/file-20250810172417052.png)
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417152.png|Open: Pasted image 20250728212742.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172154153.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417152.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172154153.png](assets/Android底层开发入门篇①/file-20250810172417152.png)
 
 
 ### 5、修改uboot.img中的波特率
 > topeet@ubuntu:~/rk3568/rk_android11.0_sdk_211130/`u-boot$ make menuconfig
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417280.png|Open: Pasted image 20250729135524.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172154216.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417280.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172154216.png](assets/Android底层开发入门篇①/file-20250810172417280.png)
 
 
 
@@ -305,10 +305,10 @@ version not support
 ### 2 、cmdline参数查看（同bootargs参数是一样,只是在内核阶段的叫法）
 
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417357.png|Open: Pasted image 20250728214902.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172154319.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417357.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172154319.png](assets/Android底层开发入门篇①/file-20250810172417357.png)
 - 1 cat /proc/cmdline
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417523.png|Open: Pasted image 20250728214840.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172154547.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417523.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172154547.png](assets/Android底层开发入门篇①/file-20250810172417523.png)
 
 
 
@@ -317,7 +317,7 @@ version not support
 
 ### 4 、cmdline参数来源
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417649.png|Open: Pasted image 20250728215845.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172154711.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417649.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172154711.png](assets/Android底层开发入门篇①/file-20250810172417649.png)
 
 - 1 kernel/arch/arm64/boot/dts/rockchip/rk3568-android.dtsi
 > / {
@@ -342,7 +342,7 @@ endif
 ```
 
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417726.png|Open: Pasted image 20250728222718.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172155017.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417726.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172155017.png](assets/Android底层开发入门篇①/file-20250810172417726.png)
 - 1 vim u-boot/arch/arm/mach-rockchip/boot_rkimg.c
 ```c
 		/* rknand doesn't need "androidboot.mode="; */
@@ -367,10 +367,10 @@ endif
 ## uboot进行本地化
 ### 1 、寻找uboot用到的config文件
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417857.png|Open: Pasted image 20250728230424.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172155173.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417857.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172155173.png](assets/Android底层开发入门篇①/file-20250810172417857.png)
 
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417928.png|Open: Pasted image 20250728230730.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172155277.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172417928.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172155277.png](assets/Android底层开发入门篇①/file-20250810172417928.png)
 
 
 ### 2 、本地化config 文件
@@ -387,7 +387,7 @@ endif
 						echo -e "\n${SUPPORT_LIST}\n"
 ```
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172418057.png|Open: Pasted image 20250728232212.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172155488.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172418057.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172155488.png](assets/Android底层开发入门篇①/file-20250810172418057.png)
 
 - 1 所以可以   ./make.sh itop_rk3568
 > topeet@ubuntu:~/rk3568/rk_android11.0_sdk_211130/u-boot$ `./make.sh itop_rk3568
@@ -423,16 +423,16 @@ cd u-boot && make clean &&  make mrproper &&  make distclean && `./make.sh $UBOO
 
 > topeet@ubuntu:~/rk3568/rk_android11.0_sdk_211130/`device$ grep "PRODUCT_UBOOT_CONFIG" -rw
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172418140.png|Open: Pasted image 20250728234810.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172155835.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172418140.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172155835.png](assets/Android底层开发入门篇①/file-20250810172418140.png)
 - 1 device/rockchip/rk356x/rk3568_r/BoardConfig.mk
 > `PRODUCT_UBOOT_CONFIG := itop_rk3568`
 - 2 把这个变量的值改成我们本地化的
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172418260.png|Open: Pasted image 20250728235038.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172155912.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172418260.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172155912.png](assets/Android底层开发入门篇①/file-20250810172418260.png)
 
 #### 完善一下make.sh脚本的帮助信息
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172418329.png|Open: Pasted image 20250728235413.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172156031.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172418329.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172156031.png](assets/Android底层开发入门篇①/file-20250810172418329.png)
 - 2 echo "	./make.sh itop_rk3568               --- build for itop_rk3568_defconfig"
 
 ### 3 、寻找uboot用到的设备树文件 
@@ -453,7 +453,7 @@ rk3568.dtsi          rk3568-evb.dts       rk3568-spi-nand.dts
 
 #### 添加设备树的编译规则
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172418452.png|Open: Pasted image 20250729134054.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172156116.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172418452.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172156116.png](assets/Android底层开发入门篇①/file-20250810172418452.png)
 
 - 1 u-boot/configs/itop_rk3568_defconfig
 - 2 CONFIG_DEFAULT_DEVICE_TREE="itop_rk3568-evb"
@@ -466,7 +466,7 @@ rk3568.dtsi          rk3568-evb.dts       rk3568-spi-nand.dts
 	`model = "TOPEET RK3568 Evaluation Board";
 
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172418532.png|Open: Pasted image 20250729134726.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172156275.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172418532.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172156275.png](assets/Android底层开发入门篇①/file-20250810172418532.png)
 
 ### 6、增加一个U boot引导内核之前的倒计时（方便进入U boot终端）
 #### 方法一： u-boot/configs/itop_rk3568_defconfig
@@ -477,11 +477,11 @@ CONFIG_SYS_CONSOLE_INFO_QUIET=y
 #### 方法二：  uboot终端下用saveenv命令
 - 1 配置 uboot支持saveenv命令
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172418641.png|Open: Pasted image 20250729135232.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172156474.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172418641.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172156474.png](assets/Android底层开发入门篇①/file-20250810172418641.png)
 
  - 1 saveenv命令的使用
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172418706.png|Open: Pasted image 20250729135740.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172156545.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172418706.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172156545.png](assets/Android底层开发入门篇①/file-20250810172418706.png)
 
 
 
@@ -493,11 +493,11 @@ CONFIG_SYS_CONSOLE_INFO_QUIET=y
 ## 瑞芯微uboot的特殊机制讲解
 ### 1 、uboot机制
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172419075.png|Open: Pasted image 20250729141902.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172156669.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172419075.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172156669.png](assets/Android底层开发入门篇①/file-20250810172419075.png)
 
 ### 2 、uboot下对内核设备树的支持
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172419329.png|Open: Pasted image 20250729142020.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172156808.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172419329.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172156808.png](assets/Android底层开发入门篇①/file-20250810172419329.png)
 
 > config USING_KERNEL_DTB
 >     `bool "使用来自Kernel/resource的dtb进行U-Boot引导"`  # 定义了一个名为USING_KERNEL_DTB的配置项，类型为布尔型（即选择是否启用）。
@@ -511,14 +511,14 @@ CONFIG_SYS_CONSOLE_INFO_QUIET=y
 >         regulator/pmic, display, usb will use dts node from kernel  # 而其他设备如调节器/电源管理芯片、显示器、USB等将使用来自内核的dts节点。
 
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172419407.png|Open: Pasted image 20250729142030.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172156886.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172419407.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172156886.png](assets/Android底层开发入门篇①/file-20250810172419407.png)
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172419548.png|Open: Pasted image 20250729142100.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172157008.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172419548.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172157008.png](assets/Android底层开发入门篇①/file-20250810172419548.png)
 
 
 ### 3 、实现机制总结:
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172419642.png|Open: Pasted image 20250729142239.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172157114.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172419642.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172157114.png](assets/Android底层开发入门篇①/file-20250810172419642.png)
 
 ### 4 、
 
@@ -577,7 +577,7 @@ BOOT_IMG=../rockdev/Image-rk3568_r/boot.img rk3568-evb1-ddr4-v10.img
 
 #### 注意事项:
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172419773.png|Open: Pasted image 20250729144240.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172157426.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172419773.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172157426.png](assets/Android底层开发入门篇①/file-20250810172419773.png)
 
 
 #### 编译脚本的来源
@@ -603,7 +603,7 @@ usage()
 `set -x`   <span style="background:#affad1">加上这个代码，打印出荣誉信息，方便而获取它的完整的脚本命令</span>
 - 1 ./build.sh -CKA       
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172419860.png|Open: Pasted image 20250729151946.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172157544.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172419860.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172157544.png](assets/Android底层开发入门篇①/file-20250810172419860.png)
 ```
 + make CC=../prebuilts/clang/host/linux-x86/clang-r383902b/bin/clang LD=../prebuilts/clang/host/linux-x86/clang-r383902b/bin/ld.lld ARCH=arm64 rk3568-evb1-ddr4-v10.img -j16
 ++ get_make_command CC=../prebuilts/clang/host/linux-x86/clang-r383902b/bin/clang LD=../prebuilts/clang/host/linux-x86/clang-r383902b/bin/ld.lld ARCH=arm64 rk3568-evb1-ddr4-v10.img -j16
@@ -640,9 +640,9 @@ cd kernel && make clean && `make $ADDON_ARGS ARCH=$KERNEL_ARCH $KERNEL_DEFCONFIG
 
 - 1 通过名字查找实际位置
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172419976.png|Open: Pasted image 20250729152900.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172157723.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172419976.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172157723.png](assets/Android底层开发入门篇①/file-20250810172419976.png)
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420043.png|Open: Pasted image 20250729152939.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172157813.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420043.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172157813.png](assets/Android底层开发入门篇①/file-20250810172420043.png)
 
 
 #### 俩个config 文件的位置是
@@ -661,7 +661,7 @@ cd kernel && make clean && `make $ADDON_ARGS ARCH=$KERNEL_ARCH $KERNEL_DEFCONFIG
 ##### rockchip_defconfig
 > topeet@ubuntu:~/rk3568/rk_android11.0_sdk_211130/`device`$ `grep "rockchip_defconfig" -rw
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420168.png|Open: Pasted image 20250729165701.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172157953.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420168.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172157953.png](assets/Android底层开发入门篇①/file-20250810172420168.png)
 - 1 device/rockchip/rk356x/BoardConfig.mk
 > PRODUCT_KERNEL_ARCH ?= arm64
 > PRODUCT_KERNEL_DTS ?= rk3568-evb1-ddr4-v10
@@ -713,7 +713,7 @@ BOARD_HS_ETHERNET := true
 
 #### 验证：本地化成功
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420231.png|Open: Pasted image 20250729171654.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172158032.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420231.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172158032.png](assets/Android底层开发入门篇①/file-20250810172420231.png)
 
 
 ### 5、
@@ -724,33 +724,33 @@ BOARD_HS_ETHERNET := true
 ## RK809电源管理芯片讲解
 ### 1 、RK809介绍
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420372.png|Open: Pasted image 20250729194357.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172158468.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420372.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172158468.png](assets/Android底层开发入门篇①/file-20250810172420372.png)
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420441.png|Open: Pasted image 20250729194430.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172158590.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420441.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172158590.png](assets/Android底层开发入门篇①/file-20250810172420441.png)
 
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420586.png|Open: Pasted image 20250729194441.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172158660.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420586.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172158660.png](assets/Android底层开发入门篇①/file-20250810172420586.png)
 
 
 ### 2 、pin脚定义:
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420753.png|Open: Pasted image 20250729194501.png]]
-![[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420753.png|RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172214171.png]]
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172214171.png](assets/Android底层开发入门篇①/file-20250810172420753.png)
 
 ### 3 、开发板上RK809位置:
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420894.png|Open: Pasted image 20250729194530.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172150978.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420894.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172150978.png](assets/Android底层开发入门篇①/file-20250810172420894.png)
 
 ### 4 、RK809功能:
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420954.png|Open: Pasted image 20250729194730.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151040.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172420954.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151040.png](assets/Android底层开发入门篇①/file-20250810172420954.png)
 
 ### 5、config文件配置
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421098.png|Open: Pasted image 20250729194836.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151138.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421098.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151138.png](assets/Android底层开发入门篇①/file-20250810172421098.png)
 
 ### 6、RK809驱动源码位置（默认添加）
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421185.png|Open: Pasted image 20250729194912.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151205.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421185.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151205.png](assets/Android底层开发入门篇①/file-20250810172421185.png)
 
 ### 7、
 
@@ -760,21 +760,21 @@ BOARD_HS_ETHERNET := true
 ## IO电压域讲解
 ### 1 、分析PMIC电路原理图
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421333.png|Open: Pasted image 20250729195309.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151309.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421333.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151309.png](assets/Android底层开发入门篇①/file-20250810172421333.png)
 
 - 1 它使用i2c0，这个器件挂载到i2c0 这个总线下
 
 ### 2 、追踪设备树，分析rk809节点
 - 1 itop_rk3568-evb1-ddr4-v10.dts --->rk3568-evb1-ddr4-v10.dtsi--->rk3568-evb.dtsi
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421423.png|Open: Pasted image 20250729200627.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151377.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421423.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151377.png](assets/Android底层开发入门篇①/file-20250810172421423.png)
 
 
 
 
 ### 3 、IO电源域的了解
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421528.png|Open: Pasted image 20250729204547.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151481.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421528.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151481.png](assets/Android底层开发入门篇①/file-20250810172421528.png)
 
 ### 4 、使用IO电压域的好处
 - 1 使用I0电压域可以动态调整I0的电压，这样在实际项目中就可以避免电平转换的烦恼。
@@ -782,7 +782,7 @@ BOARD_HS_ETHERNET := true
 
 ### 5、RK3568的十个IO电压域功能分析
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421595.png|Open: Pasted image 20250729204826.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151542.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421595.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151542.png](assets/Android底层开发入门篇①/file-20250810172421595.png)
 
 ### 6、
 
@@ -909,7 +909,7 @@ BOARD_HS_ETHERNET := true
 ## Android源码的device目录讲解（产品目录）
 ### 1 、device目录结构
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421847.png|Open: Pasted image 20250729214226.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151909.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421847.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151909.png](assets/Android底层开发入门篇①/file-20250810172421847.png)
 
 ### 2 、产品目录需要关注的文件
 
@@ -933,11 +933,11 @@ bt_vendor.conf   dt-overlay.in      recovery.fstab_AB
 ### 3 、rk356x目录下文件作用
 #### AndroidProducts.mk（产品列表）
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421875.png|Open: Pasted image 20250729215908.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151939.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421875.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151939.png](assets/Android底层开发入门篇①/file-20250810172421875.png)
 
 #### BoardConfig.mk（底层信息）
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421910.png|Open: Pasted image 20250729215917.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151976.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172421910.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172151976.png](assets/Android底层开发入门篇①/file-20250810172421910.png)
 
 
 ### 4 、rk3568_r目录下文件作用
@@ -948,11 +948,11 @@ bt_vendor.conf   dt-overlay.in      recovery.fstab_AB
 
 #### AndroidBoard.mk （包含其他mk文件）
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172414888.png|Open: Pasted image 20250729220032.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152142.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172414888.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152142.png](assets/Android底层开发入门篇①/file-20250810172414888.png)
 
 #### BoardConfig.mk（定义和硬件相关的底层特性和变量）
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172414952.png|Open: Pasted image 20250729220023.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152268.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172414952.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152268.png](assets/Android底层开发入门篇①/file-20250810172414952.png)
 
 ### 5、后面我们在本地化的时候，我们肯定需要改这些配置文件
 
@@ -966,36 +966,36 @@ bt_vendor.conf   dt-overlay.in      recovery.fstab_AB
 ## Android源码的device目录的变量讲解（.mk文件）
 ### 1 、通用变量
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415075.png|Open: Pasted image 20250729224218.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152332.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415075.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152332.png](assets/Android底层开发入门篇①/file-20250810172415075.png)
 
 ### 2 、自定义变量
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415150.png|Open: Pasted image 20250729224256.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152456.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415150.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152456.png](assets/Android底层开发入门篇①/file-20250810172415150.png)
 - 1 用来在编译的时候选择一些外设的东西，到底要不要编译还是怎么选择的
 
 
 ### 3 、功能变量（重要）
 #### PRODUCT_COPY_FILES
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415268.png|Open: Pasted image 20250729224334.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152522.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415268.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152522.png](assets/Android底层开发入门篇①/file-20250810172415268.png)
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415334.png|Open: Pasted image 20250729224430.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152623.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415334.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152623.png](assets/Android底层开发入门篇①/file-20250810172415334.png)
 
 #### -include
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415445.png|Open: Pasted image 20250729224504.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152683.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415445.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152683.png](assets/Android底层开发入门篇①/file-20250810172415445.png)
 
 #### include、inherit-product
 - 1 都可以包含对应的mk文件
 
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415513.png|Open: Pasted image 20250729224709.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152784.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415513.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152784.png](assets/Android底层开发入门篇①/file-20250810172415513.png)
 
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415627.png|Open: Pasted image 20250729224733.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152848.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415627.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152848.png](assets/Android底层开发入门篇①/file-20250810172415627.png)
 ### 4 、举例
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415698.png|Open: Pasted image 20250729225002.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152943.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172415698.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172152943.png](assets/Android底层开发入门篇①/file-20250810172415698.png)
 
 
 
@@ -1047,7 +1047,7 @@ bt_vendor.conf   dt-overlay.in      recovery.fstab_AB
 
 ### 3 、
 [[RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172409338.png|Open: Pasted image 20250730195352.png]]
-![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153008.png](RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172409338.png)
+![RK3568（linux学习）/rk3568芯片开发/Android系统开发（未）/assets/Android底层开发入门篇①/file-20250810172153008.png](assets/Android底层开发入门篇①/file-20250810172409338.png)
 
 
 

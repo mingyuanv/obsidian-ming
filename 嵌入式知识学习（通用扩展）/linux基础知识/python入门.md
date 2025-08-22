@@ -10,7 +10,7 @@ dg-publish: true
 
 # 备注(声明)：
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/python入门/file-20250810171625353.png|Open: Pasted image 20250727213300.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/python入门/file-20250810170950326.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/python入门/file-20250810171625353.png)
+![RK3568（linux学习）/linux基础知识学习/assets/python入门/file-20250810170950326.png](assets/python入门/file-20250810171625353.png)
 
 
 

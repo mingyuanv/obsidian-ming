@@ -90,7 +90,7 @@
 
 [(代码)加载RKNN模型(连板推理) 02_inference](onenote:https://d.docs.live.net/52d4b76bb0ffcf51/Documents/\(RK3568\)Linux驱动开发/RKNPU2%20从入门到实践.one#\(代码\)加载RKNN模型\(连板推理\)%20%2002_inference&section-id={641937CE-3813-4C58-8FF0-46D25EB3FA91}&page-id={DF86737D-E11B-428A-A2A4-0D1A66D7E4EB}&end)  ([Web 视图](https://onedrive.live.com/view.aspx?resid=52D4B76BB0FFCF51%21se8c325913f784bf694d429e5ee2ab2be&id=documents&wd=target%28RKNPU2%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.one%7C641937CE-3813-4C58-8FF0-46D25EB3FA91%2F%28%E4%BB%A3%E7%A0%81%5C%29%E5%8A%A0%E8%BD%BDRKNN%E6%A8%A1%E5%9E%8B%28%E8%BF%9E%E6%9D%BF%E6%8E%A8%E7%90%86%5C%29%20%2002_inference%7CDF86737D-E11B-428A-A2A4-0D1A66D7E4EB%2F%29))
 ### 模拟器或者连板推理的切换
-![RK3568（linux学习）/rk3568芯片开发/人工智能开发（未）/assets/RKNPU2 从入门到实践/file-20250810171708924.png](RK3568（linux学习）/rk3568芯片开发/人工智能开发（RKNPU）/assets/RKNPU2%20从入门到实践/file-20250810171708924.png)
+![RK3568（linux学习）/rk3568芯片开发/人工智能开发（未）/assets/RKNPU2 从入门到实践/file-20250810171708924.png](assets/RKNPU2%20从入门到实践/file-20250810171708924.png)
 
 ### 补充
 [[RK3568（linux学习）/rk3568芯片开发/人工智能开发（RKNPU）/assets/RKNPU2 从入门到实践/file-20250810171709067.pdf]]

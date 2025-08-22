@@ -6,7 +6,7 @@ description:
 ---
 
 # 备注(声明)：
-![RK3568（linux学习）/rk3568芯片开发/linux外设驱动开发（未）/GPIO驱动编写/assets/第十二期\_GPIO子系统/file-20250810171753595.png](RK3568（linux学习）/rk3568芯片开发/linux外设驱动开发（未）/assets/第十二期_GPIO子系统/file-20250810171753595.png)
+![RK3568（linux学习）/rk3568芯片开发/linux外设驱动开发（未）/GPIO驱动编写/assets/第十二期\_GPIO子系统/file-20250810171753595.png](assets/第十二期_GPIO子系统/file-20250810171753595.png)
 
 
 
@@ -312,7 +312,7 @@ description:
 ### 8、实验操作及现象
 [“15-实战-实现动态切换引脚复用功能”页上的图片](onenote:#15-实战-实现动态切换引脚复用功能&section-id={70166D78-0FC7-4512-B1CF-4A4481F8C206}&page-id={28072B3F-D34F-45D0-AAED-6E8ACE294BD4}&object-id={46F97979-18DE-41D9-9578-CE091C29DD7F}&68&base-path=https://d.docs.live.net/52D4B76BB0FFCF51/Documents/\(RK3568\)Linux驱动开发/第十二期_GPIO子系统.one)
 
-![RK3568（linux学习）/rk3568芯片开发/linux外设驱动开发（未）/GPIO驱动编写/assets/第十二期\_GPIO子系统/file-20250810171754362.c](RK3568（linux学习）/rk3568芯片开发/linux外设驱动开发（未）/assets/第十二期_GPIO子系统/file-20250810171754362.c)
+![RK3568（linux学习）/rk3568芯片开发/linux外设驱动开发（未）/GPIO驱动编写/assets/第十二期\_GPIO子系统/file-20250810171754362.c](assets/第十二期_GPIO子系统/file-20250810171754362.c)
 
 
 

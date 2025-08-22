@@ -22,7 +22,7 @@ description:
 
 ### 2 、 使用流程
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/CMake工具学习/file-20250810171617012.png|Open: Pasted image 20250724204204.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/CMake工具学习/file-20250810171617012.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/CMake工具学习/file-20250810171617012.png)
+![RK3568（linux学习）/linux基础知识学习/assets/CMake工具学习/file-20250810171617012.png](assets/CMake工具学习/file-20250810171617012.png)
 
 
 
@@ -846,7 +846,7 @@ add_subdirectory(source_dir [binary_dir] [EXCLUDE_FROM_ALL])
 ### 4 、实现一个加减乘除的案例
 #### 目录结构
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/CMake工具学习/file-20250810171617351.png|Open: Pasted image 20250725215701.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/CMake工具学习/file-20250810171617351.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/CMake工具学习/file-20250810171617351.png)
+![RK3568（linux学习）/linux基础知识学习/assets/CMake工具学习/file-20250810171617351.png](assets/CMake工具学习/file-20250810171617351.png)
 
 > - include 目录：头文件目录
 > - src ：源文件目录
@@ -980,7 +980,7 @@ target_link_libraries(hello man)          # 关键链接语句
 
 ### 1 、工程目录结构
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/CMake工具学习/file-20250810171617627.png|Open: Pasted image 20250726180247.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/CMake工具学习/file-20250810171617627.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/CMake工具学习/file-20250810171617627.png)
+![RK3568（linux学习）/linux基础知识学习/assets/CMake工具学习/file-20250810171617627.png](assets/CMake工具学习/file-20250810171617627.png)
 
 > - include 目录： 头文件目录，两个模块的头文件都放在这里
 > - calc 目录： 关于计算模块的源码都放在这里

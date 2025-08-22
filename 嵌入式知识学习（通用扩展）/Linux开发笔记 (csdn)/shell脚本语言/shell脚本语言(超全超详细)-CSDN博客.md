@@ -184,7 +184,7 @@ export PATH=$PATH:/需要添加的路径
 
 ### <span style="background:#b1ffff">shell直接提供无需定义的变量</span>
 
-![Pasted image 20250428000220.png](媒体库/图片库/Pasted%20image%2020250428000220.png)
+![Pasted image 20250428000220.png](../../../媒体库/图片库/Pasted%20image%2020250428000220.png)
 ### 案例：
 
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/blog_migrate/2f5e474a840379656a12fc5021d41654.png)  
@@ -195,11 +195,11 @@ export PATH=$PATH:/需要添加的路径
 
 
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/blog_migrate/317cb656da02ea6e0cbf00d69a4fb119.png)  
-![在这里插入图片描述]![嵌入式知识学习（通用扩展）（未）/Linux开发笔记 (csdn)/shell脚本语言/assets/shell脚本语言(超全超详细)-CSDN博客/file-20250810171439671.png](嵌入式知识学习（通用扩展）/Linux开发笔记%20(csdn)/shell脚本语言/assets/shell脚本语言(超全超详细)-CSDN博客/file-20250810171439671.png)g)  
+![在这里插入图片描述]![嵌入式知识学习（通用扩展）（未）/Linux开发笔记 (csdn)/shell脚本语言/assets/shell脚本语言(超全超详细)-CSDN博客/file-20250810171439671.png](assets/shell脚本语言(超全超详细)-CSDN博客/file-20250810171439671.png)g)  
 
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/blog_migrate/e16fe6e0a7d6f0bf5f8713228ea65511.png)  
 
-![嵌入式知识学习（通用扩展）（未）/Linux开发笔记 (csdn)/shell脚本语言/assets/shell脚本语言(超全超详细)-CSDN博客/file-20250810171439868.png](嵌入式知识学习（通用扩展）/Linux开发笔记%20(csdn)/shell脚本语言/assets/shell脚本语言(超全超详细)-CSDN博客/file-20250810171439868.png)
+![嵌入式知识学习（通用扩展）（未）/Linux开发笔记 (csdn)/shell脚本语言/assets/shell脚本语言(超全超详细)-CSDN博客/file-20250810171439868.png](assets/shell脚本语言(超全超详细)-CSDN博客/file-20250810171439868.png)
 
 
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/blog_migrate/4204adf3f72d8e41e679f6f5bb235b78.png)

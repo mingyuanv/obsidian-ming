@@ -14,7 +14,7 @@ description:
 ## 二进制
 ### 1 、进制转换
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171628893.png|Open: Pasted image 20250706135257.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171628893.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171628893.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171628893.png](assets/嵌入式C语言/file-20250810171628893.png)
 ### 2 、2的n次方（二进制）
 
 | 2的n次方 |       |     |     |
@@ -34,7 +34,7 @@ description:
 
 ### 3 、进制表示
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171628981.png|Open: Pasted image 20250706152603.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171628981.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171628981.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171628981.png](assets/嵌入式C语言/file-20250810171628981.png)
 
 #### ​进制表示法总结​​
 
@@ -103,7 +103,7 @@ description:
 ## 对c语言的本质了解
 ### 1 、C语言工具的特性:内存操作
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171629106.png|Open: Pasted image 20250706135850.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171629106.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171629106.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171629106.png](assets/嵌入式C语言/file-20250810171629106.png)
 
 ### 2 、对c语言的想法
 > 什么时候用?
@@ -116,7 +116,7 @@ description:
 
 ### 3 、推荐教材
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171629166.png|Open: Pasted image 20250706135758.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171629166.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171629166.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171629166.png](assets/嵌入式C语言/file-20250810171629166.png)
 
 ### 4、c操作对象 - 资源/内存(内存类型的资源,LCD缓存,LED灯)
 
@@ -405,7 +405,7 @@ a=2, b=10, c=8, d=16
 ## 数据类型（对资源大小进行限制）
 ### 1 、总揽
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171629301.png|Open: Pasted image 20250706150719.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171629301.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171629301.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171629301.png](assets/嵌入式C语言/file-20250810171629301.png)
 
 ### 2 、数据类型 - 限制内存(土地)的大小
 - 1 c语言用来描述资源的属性。
@@ -484,7 +484,7 @@ a=2, b=10, c=8, d=16
 ## 自定义数据类型（基本元素的集合）
 ### 1 、总揽
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171629418.png|Open: Pasted image 20250706150752.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171629418.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171629418.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171629418.png](assets/嵌入式C语言/file-20250810171629418.png)
 
 ### 2 、结构体 - struct
 [“13 自定义数据类型struct、union”页上的图片](onenote:#13%20自定义数据类型struct、union&section-id={2C7898E3-CF4E-4DD6-BB38-515BCA6A7286}&page-id={7B6E5E10-84A3-42FE-9A7B-F5CC9B56592C}&object-id={7C3D0F36-EA3C-4DC8-9C44-A300DD6BE64B}&18&base-path=https://d.docs.live.net/52d4b76bb0ffcf51/Documents/\(RK3568\)Linux驱动开发/嵌入式C语言/嵌入式C语言.one)
@@ -581,7 +581,7 @@ if (a1 == 2) {
 ## 逻辑结构
 ### 1 、总揽
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171629508.png|Open: Pasted image 20250706150757.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171629508.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171629508.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171629508.png](assets/嵌入式C语言/file-20250810171629508.png)
 
 ### 2 、if、else（条件分支）
 
@@ -721,7 +721,7 @@ Continuing the loop
 ## 类型修饰符 - 对内存资源存放位置的限定
 ### 1 、总揽
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171629745.png|Open: Pasted image 20250706150804.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171629745.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171629745.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171629745.png](assets/嵌入式C语言/file-20250810171629745.png)
 
 ### 2 、register（尽量限制变量定义在寄存器上）
 [“17 类型修饰符(一)_register ,auto”页上的图片](onenote:#17%20类型修饰符\(一\)_register%20,auto&section-id={2C7898E3-CF4E-4DD6-BB38-515BCA6A7286}&page-id={9B92E7A0-88A3-4335-8026-DFE85AA86FBE}&object-id={7F558D21-0876-4F56-835D-D062E0A42655}&6C&base-path=https://d.docs.live.net/52d4b76bb0ffcf51/Documents/\(RK3568\)Linux驱动开发/嵌入式C语言/嵌入式C语言.one)
@@ -884,7 +884,7 @@ main.c:9:6: `error: increment of read-only parameter ‘a’`
 ## 杂项
 ### 1 、总揽
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171630075.png|Open: Pasted image 20250706150811.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171630075.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171630075.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171630075.png](assets/嵌入式C语言/file-20250810171630075.png)
 
 ### 2 、sizeof
 - 3 查看内存容量的工具。              `sizeof a;`
@@ -921,7 +921,7 @@ main.c:9:6: `error: increment of read-only parameter ‘a’`
 ## 算术操作运算
 ### 1 、总揽
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/8733181d6e9f2caae9613cc6d1859073_MD5.jpeg|Open: file-20250818205048528.png]]
-![[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/8733181d6e9f2caae9613cc6d1859073_MD5.jpeg]]
+![嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/8733181d6e9f2caae9613cc6d1859073\_MD5.jpeg](assets/嵌入式C语言/8733181d6e9f2caae9613cc6d1859073_MD5.jpeg)
 
 
 ### 2 、+、-
@@ -965,7 +965,7 @@ main.c:9:6: `error: increment of read-only parameter ‘a’`
 ## 逻辑运算（结果为布尔数）
 ### 1 、总揽
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171630413.png|Open: Pasted image 20250706165107.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171630413.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171630413.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171630413.png](assets/嵌入式C语言/file-20250810171630413.png)
 
 ### 2 、|| 、&&
 [“21 常用运算符(二)_逻辑运算符”页上的图片](onenote:#21%20常用运算符\(二\)_逻辑运算符&section-id={2C7898E3-CF4E-4DD6-BB38-515BCA6A7286}&page-id={535722AC-DD20-429C-ADE3-9859A1335733}&object-id={020BCF94-FF9D-4D9B-94BC-46CFE6606EA9}&5E&base-path=https://d.docs.live.net/52d4b76bb0ffcf51/Documents/\(RK3568\)Linux驱动开发/嵌入式C语言/嵌入式C语言.one)
@@ -1022,7 +1022,7 @@ Status: `Minor`
 ## 位运算
 ### 1 、总揽
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171630580.png|Open: Pasted image 20250706165113.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171630580.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171630580.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171630580.png](assets/嵌入式C语言/file-20250810171630580.png)
 
 ### 2 、<<（左移）（高位丢弃，低位补0）
 [“22位运算符(一)移位运算符”页上的图片](onenote:#22位运算符\(一\)移位运算符&section-id={2C7898E3-CF4E-4DD6-BB38-515BCA6A7286}&page-id={6B467C5A-C3CA-485A-BFC8-3310D073C2F8}&object-id={FF970EBB-3516-4468-9143-3EAD9756D5D5}&16&base-path=https://d.docs.live.net/52d4b76bb0ffcf51/Documents/\(RK3568\)Linux驱动开发/嵌入式C语言/嵌入式C语言.one)
@@ -1137,7 +1137,7 @@ a=15
 ## 内存访问符号
 ### 1 、总揽
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171630675.png|Open: Pasted image 20250706165119.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171630675.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171630675.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171630675.png](assets/嵌入式C语言/file-20250810171630675.png)
 
 ### 2 、()  （限制符）（限制优先级）（函数访问））
 [“25 常用运算符(三)_内存访问符”页上的图片](onenote:#25%20常用运算符\(三\)_内存访问符&section-id={2C7898E3-CF4E-4DD6-BB38-515BCA6A7286}&page-id={EDE206E3-456F-4FD0-BACD-4CF59CAFF370}&object-id={C7CCB882-6A2D-420F-A370-ADCDC0D0EAC3}&2B&base-path=https://d.docs.live.net/52d4b76bb0ffcf51/Documents/\(RK3568\)Linux驱动开发/嵌入式C语言/嵌入式C语言.one)
@@ -1217,7 +1217,7 @@ yuan->a=10
 ## 赋值运算
 ### 1 、总揽
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171630800.png|Open: Pasted image 20250706165123.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171630800.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171630800.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171630800.png](assets/嵌入式C语言/file-20250810171630800.png)
 
 ### 2 、=
 
@@ -1229,7 +1229,7 @@ yuan->a=10
 
 # 四、C语言内存空间的使用（指针）
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171631278.png|Open: Pasted image 20250706214738.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171631278.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171631278.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171631278.png](assets/嵌入式C语言/file-20250810171631278.png)
 
 ## 指针概述
 ### 1 、地址的一个代名词、内存资源的门牌号
@@ -1281,7 +1281,7 @@ yuan->a=10
 [“02 指针概述2_举例1”页上的图片](onenote:#02%20指针概述2_举例1&section-id={2C7898E3-CF4E-4DD6-BB38-515BCA6A7286}&page-id={A6BA3102-E56B-402B-B390-170260F87FD6}&object-id={6E5A0A4E-8089-4DB6-87AF-A2324E10BBB3}&3A&base-path=https://d.docs.live.net/52d4b76bb0ffcf51/Documents/\(RK3568\)Linux驱动开发/嵌入式C语言/嵌入式C语言.one)
 - 1 0x12345678在内存的分布
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/fde1f5dc0661e5ff45b306d47b79902b_MD5.jpeg|Open: file-20250818232211403.png]]
-![[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/fde1f5dc0661e5ff45b306d47b79902b_MD5.jpeg]]
+![嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/fde1f5dc0661e5ff45b306d47b79902b\_MD5.jpeg](assets/嵌入式C语言/fde1f5dc0661e5ff45b306d47b79902b_MD5.jpeg)
 
 
 - 1 从地址低位开始读，一个字节一个字节的读。      
@@ -1289,7 +1289,7 @@ yuan->a=10
 
 #### 以“hell”的分布读取举例
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/b500ec4d1bc7597b58adcd602f7db7cb_MD5.jpeg|Open: file-20250818233920497.png]]
-![[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/b500ec4d1bc7597b58adcd602f7db7cb_MD5.jpeg]]
+![嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/b500ec4d1bc7597b58adcd602f7db7cb\_MD5.jpeg](assets/嵌入式C语言/b500ec4d1bc7597b58adcd602f7db7cb_MD5.jpeg)
 - 2 <span style="background:#affad1">变量分配从内存地址的高到低位分配的</span>
 - 1 从地址低位开始读，一个字节一个字节的读。     
 - 2 故读到的为：108 108 101 104
@@ -1388,7 +1388,7 @@ char *p = "hello"; // p 存储的是字符串 "hello" 的首地址
 `p1[1]=12345678`
 `p2[1]=11`
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/4003a611d878dd2cfdda4878118c8ac1_MD5.jpeg|Open: file-20250819140250412.png]]
-![[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/4003a611d878dd2cfdda4878118c8ac1_MD5.jpeg]]
+![嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/4003a611d878dd2cfdda4878118c8ac1\_MD5.jpeg](assets/嵌入式C语言/4003a611d878dd2cfdda4878118c8ac1_MD5.jpeg)
 
 
 
@@ -1465,7 +1465,7 @@ p1 is not NULL
 ## 多级指针
 ### 1 、二级指针（存放地址的地址空间）（NULL结束）
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/a2517cd8f14d3da3ec567a7421692265_MD5.jpeg|Open: file-20250819142823058.png]]
-![[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/a2517cd8f14d3da3ec567a7421692265_MD5.jpeg]]
+![嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/a2517cd8f14d3da3ec567a7421692265\_MD5.jpeg](assets/嵌入式C语言/a2517cd8f14d3da3ec567a7421692265_MD5.jpeg)
 
 - 1 通过多级指针把不相关的几个内存组，合成一种线性关系
 
@@ -1473,7 +1473,7 @@ p1 is not NULL
 
 #### 双重指针的作用
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171631510.png|Open: Pasted image 20250708170542.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171631510.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171631510.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171631510.png](assets/嵌入式C语言/file-20250810171631510.png)
 
 
 
@@ -1499,7 +1499,7 @@ argv[3] is 49u4
 
 - 1 图解分析
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/60679598a7c8cc25ecb414c9c8e85595_MD5.jpeg|Open: file-20250819144045100.png]]
-![[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/60679598a7c8cc25ecb414c9c8e85595_MD5.jpeg]]
+![嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/60679598a7c8cc25ecb414c9c8e85595\_MD5.jpeg](assets/嵌入式C语言/60679598a7c8cc25ecb414c9c8e85595_MD5.jpeg)
 
 - 2 实际开发中来说，我们我们大部分能用到二维指针就可以了
 - 2 读代码的时候，其实就是在读什么一个人，他在设计这个问题的解决方案
@@ -1510,7 +1510,7 @@ argv[3] is 49u4
 
 # 五、数组（特殊的指针）（用`[]`解引用）
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171631667.png|Open: Pasted image 20250706222458.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171631667.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171631667.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171631667.png](assets/嵌入式C语言/file-20250810171631667.png)
 
 ## 数组的定义（内存分配的一种形式）
 ### 1 、`数据类型 数组名[m]  `
@@ -1595,12 +1595,12 @@ char *strncpy (char *dest,
 ### 5、字符空间（给人看，定义字符串）（\0作为结束标志）
 - 1 char buf[10]；
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/0ebe81e803a9fef33666b6de4660cb37_MD5.jpeg|Open: file-20250819161725117.png]]
-![[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/0ebe81e803a9fef33666b6de4660cb37_MD5.jpeg]]
+![嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/0ebe81e803a9fef33666b6de4660cb37\_MD5.jpeg](assets/嵌入式C语言/0ebe81e803a9fef33666b6de4660cb37_MD5.jpeg)
 
 ### 6、非字符空间（数据采集）
 - 1 unsigned char buff[10];
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/c870d00bff61a6ac51672c639c82030a_MD5.jpeg|Open: file-20250819161732139.png]]
-![[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/c870d00bff61a6ac51672c639c82030a_MD5.jpeg]]
+![嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/c870d00bff61a6ac51672c639c82030a\_MD5.jpeg](assets/嵌入式C语言/c870d00bff61a6ac51672c639c82030a_MD5.jpeg)
 ```c
     unsigned char buf[100]={0x11,0x23};
 
@@ -1643,7 +1643,7 @@ char *strncpy (char *dest,
 ## 数组与指针
 ### 1 、指针数组（相当于二维指针）（`*a[100]`）
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171631781.png|Open: Pasted image 20250707221149.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171631781.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171631781.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171631781.png](assets/嵌入式C语言/file-20250810171631781.png)
 
 - 1 指针数组的话是有好多指针然后指向不同的块
 
@@ -1673,7 +1673,7 @@ char *strncpy (char *dest,
 
 ### 4 、数组与指针的辨别方式
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171632052.png|Open: Pasted image 20250707221644.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171632052.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171632052.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171632052.png](assets/嵌入式C语言/file-20250810171632052.png)
 
 
 
@@ -1683,7 +1683,7 @@ char *strncpy (char *dest,
 - 1 一个指针读取多个块，这个相当于是一个指针，然后可以一次性读取100个块
 - 2 指针本身可以当数组用。
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171632168.png|Open: Pasted image 20250707222100.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171632168.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171632168.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171632168.png](assets/嵌入式C语言/file-20250810171632168.png)
 
 ```c
     int b[5][6]={{1,2,3,4,5,6},{7,8,9,1,2,3}};
@@ -1708,7 +1708,7 @@ char *strncpy (char *dest,
 
 ### 1、二维数组
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171631911.png|Open: Pasted image 20250707221436.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171631911.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171631911.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171631911.png](assets/嵌入式C语言/file-20250810171631911.png)
 
 - 1 一行一块读内存的       先行再列
 ```c
@@ -1726,36 +1726,36 @@ char *strncpy (char *dest,
 
 ### 3、指针与二维数组
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171632696.png|Open: Pasted image 20250708205625.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171632696.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171632696.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171632696.png](assets/嵌入式C语言/file-20250810171632696.png)
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171632981.png|Open: Pasted image 20250708205702.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171632981.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171632981.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171632981.png](assets/嵌入式C语言/file-20250810171632981.png)
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171633129.png|Open: Pasted image 20250708205709.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171633129.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171633129.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171633129.png](assets/嵌入式C语言/file-20250810171633129.png)
 
 
 
 ### 4、定义三维数组
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171633636.png|Open: Pasted image 20250708205741.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171633636.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171633636.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171633636.png](assets/嵌入式C语言/file-20250810171633636.png)
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171633758.png|Open: Pasted image 20250708205808.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171633758.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171633758.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171633758.png](assets/嵌入式C语言/file-20250810171633758.png)
 ### 5、访问三维数组元素
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171633962.png|Open: Pasted image 20250708205824.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171633962.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171633962.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171633962.png](assets/嵌入式C语言/file-20250810171633962.png)
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171634098.png|Open: Pasted image 20250708205836.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171634098.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171634098.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171634098.png](assets/嵌入式C语言/file-20250810171634098.png)
 
 ### 6、
 
 
 # 六、结构体
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171634235.png|Open: Pasted image 20250707222305.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171634235.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171634235.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171634235.png](assets/嵌入式C语言/file-20250810171634235.png)
 
 ## 字节对齐
 ### 1 、提高性能，牺牲空间
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171634328.png|Open: Pasted image 20250707222336.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171634328.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171634328.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171634328.png](assets/嵌入式C语言/file-20250810171634328.png)
 
 
 - 1 四个字节对齐
@@ -1778,7 +1778,7 @@ char *strncpy (char *dest,
 
 ### 2 、结论
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171634481.png|Open: Pasted image 20250707222458.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171634481.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171634481.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171634481.png](assets/嵌入式C语言/file-20250810171634481.png)
 
 ### 3 、
 
@@ -1813,12 +1813,12 @@ char *strncpy (char *dest,
 
 # 七、内存分布图
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171634611.png|Open: Pasted image 20250707222531.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171634611.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171634611.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171634611.png](assets/嵌入式C语言/file-20250810171634611.png)
 
 ## 内存分布思想概述
 ### 1 、内存的属性
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171634749.png|Open: Pasted image 20250707222640.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171634749.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171634749.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171634749.png](assets/嵌入式C语言/file-20250810171634749.png)
 
 ### 2 、对main函数名分析（地址）
 - 1 函数名其实就是这一块代码的什么代名词，也就是称之为有点像数组的什么标签
@@ -1834,7 +1834,7 @@ char *strncpy (char *dest,
 
 ### 3 、内存分布思想（代码定义在内存中的位置）
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171634829.png|Open: Pasted image 20250707223021.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171634829.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171634829.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171634829.png](assets/嵌入式C语言/file-20250810171634829.png)
 
 - 1 代码段好像都很低啊，都在   低     这个位置上
 - 1 局部变量也就是我们所说的定义的，int a啊，所以它比较   高
@@ -1859,7 +1859,7 @@ int a;
 
 ### 4 、总结（内存分布图）
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171635399.png|Open: Pasted image 20250707223422.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171635399.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171635399.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171635399.png](assets/嵌入式C语言/file-20250810171635399.png)
 
 
 
@@ -1921,7 +1921,7 @@ int main(int argc,char **argv){
 ## 堆空间（malloc）
 ### 1 、堆空间定义
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171636033.png|Open: Pasted image 20250707230052.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171636033.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171636033.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171636033.png](assets/嵌入式C语言/file-20250810171636033.png)
 
 - 1 生存在某一个时间段内，就该用到堆空间。
 ### 2 、malloc()分配好内存
@@ -1957,20 +1957,20 @@ int main(int argc,char **argv){
 ## 静态空间(代码段  只读数据段  全局变量)
 ### 1 、定义
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171636441.png|Open: Pasted image 20250707223546.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171636441.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171636441.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171636441.png](assets/嵌入式C语言/file-20250810171636441.png)
 
 - 1 你只能读这段空间内容，这个属性操作系统已经完全给你保护好了
 
 ### 2 、汇编文件中的组成进化为可执行文件的过程。
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171636868.png|Open: Pasted image 20250707224035.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171636868.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171636868.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171636868.png](assets/嵌入式C语言/file-20250810171636868.png)
 
 - 1 所谓链接，我们把它打包成静态数据，打包成一个最终的可执行程序。
 
 
 ### 5 、size命令（查看可执行文件的内存分布）（静态空间分布段）
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171637503.png|Open: Pasted image 20250707224742.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171637503.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171637503.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171637503.png](assets/嵌入式C语言/file-20250810171637503.png)
 
 > (base) topeet@ubuntu:~/test/c$ size app
    **text**	                                 **data**	                             **bss**	    dec	    hex	filename
@@ -1989,7 +1989,7 @@ int main(int argc,char **argv){
 ## 函数概述
 ### 1 、总揽
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171637644.png|Open: Pasted image 20250708135953.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171637644.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171637644.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171637644.png](assets/嵌入式C语言/file-20250810171637644.png)
 
 ### 2 、函数概述
 - 1 一堆代码的集合，用一个标签（函数名）去描述它
@@ -1998,15 +1998,15 @@ int main(int argc,char **argv){
 - 1 其实读代码，为了提高效率，往往是先看声明，然后我们再说你觉得哪个函数有必要读。
 ### 3 、函数三要素
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171637776.png|Open: Pasted image 20250708140608.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171637776.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171637776.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171637776.png](assets/嵌入式C语言/file-20250810171637776.png)
 
 ### 4 、用指针保存函数
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171638025.png|Open: Pasted image 20250708140631.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171638025.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171638025.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171638025.png](assets/嵌入式C语言/file-20250810171638025.png)
 
 #### 函数名就是地址，知道地址我们就可以调用它
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171638254.png|Open: Pasted image 20250708141107.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171638254.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171638254.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171638254.png](assets/嵌入式C语言/file-20250810171638254.png)
 
 ```c
 void test(int a){
@@ -2036,7 +2036,7 @@ void test1(int a){
 
 ### 5、定义函数，调用函数
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171638724.png|Open: Pasted image 20250708140732.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171638724.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171638724.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171638724.png](assets/嵌入式C语言/file-20250810171638724.png)
 
 ### 6、实例分析 - 指针当函数用
 ```c
@@ -2051,7 +2051,7 @@ myprintf
 
 ### 7、实例分析 - 指针数组与函数指针的结合使用
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171638853.png|Open: Pasted image 20250708141340.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171638853.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171638853.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171638853.png](assets/嵌入式C语言/file-20250810171638853.png)
 
 
 ```c
@@ -2092,7 +2092,7 @@ void test1(int a){
 ## 输入参数
 ### 1 、总揽
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171639444.png|Open: Pasted image 20250708140118.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171639444.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171639444.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171639444.png](assets/嵌入式C语言/file-20250810171639444.png)
 
 ### 2 、输入参数分析
 - 1 承上启下的功能
@@ -2138,7 +2138,7 @@ test
 ### 6、地址传递 - 连续空间的传递
 #### 结构体变量（更省空间）
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171639792.png|Open: Pasted image 20250708145702.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171639792.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171639792.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171639792.png](assets/嵌入式C语言/file-20250810171639792.png)
 
 ```c
 //全局变量
@@ -2177,7 +2177,7 @@ b
 
 #### 数组名（标签）
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171640340.png|Open: Pasted image 20250708145828.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171640340.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171640340.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171640340.png](assets/嵌入式C语言/file-20250810171640340.png)
 ```c
 void test2(int a[10]){
     a[0]=100; // 修改数组的第一个元素
@@ -2200,7 +2200,7 @@ test2
 
 ### 7、连续空间只读性（const）
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171641033.png|Open: Pasted image 20250708150246.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171641033.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171641033.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171641033.png](assets/嵌入式C语言/file-20250810171641033.png)
 
 ```c
 void test2(const int a[10]){
@@ -2228,14 +2228,14 @@ void test2(const int a[10]){
 
 ### 8、对空间操作的二要素（空间首地址、结束标志）
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171641205.png|Open: Pasted image 20250708150630.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171641205.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171641205.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171641205.png](assets/嵌入式C语言/file-20250810171641205.png)
 
 
 
 ### 9、字符空间传递（char * ）（结束标志是：0x00）
 - 1 常见处理举例
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171641585.png|Open: Pasted image 20250708150910.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171641585.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171641585.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171641585.png](assets/嵌入式C语言/file-20250810171641585.png)
 ```c
 void test3(char *p){
 
@@ -2265,7 +2265,7 @@ p[4]=o
 
 ### 10、非字符空间操作（结束标志是数量长度）
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171641661.png|Open: Pasted image 20250708151424.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171641661.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171641661.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171641661.png](assets/嵌入式C语言/file-20250810171641661.png)
 - 1 void * :数据空间的标识符
 
 ```c
@@ -2308,18 +2308,18 @@ p[4]=55
 
 #### 非字符空间中的一种标准声明
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171642240.png|Open: Pasted image 20250708151526.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171642240.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171642240.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171642240.png](assets/嵌入式C语言/file-20250810171642240.png)
 
 
 ### 11、函数地址传递总结
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171642554.png|Open: Pasted image 20250708152913.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171642554.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171642554.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171642554.png](assets/嵌入式C语言/file-20250810171642554.png)
 
 
 ### 12、输入参数是二维指针
 - 1 上层函数，希望这个子函数帮我们更新一下什么地址空间
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171643062.png|Open: Pasted image 20250708165820.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171643062.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171643062.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171643062.png](assets/嵌入式C语言/file-20250810171643062.png)
 
 
 
@@ -2335,11 +2335,11 @@ p[4]=55
 ## 返回值 - 返回基本数据类型（提供启下功能的一种表现形式）
 ### 1 、总揽 
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171643524.png|Open: Pasted image 20250708140214.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171643524.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171643524.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171643524.png](assets/嵌入式C语言/file-20250810171643524.png)
 
 ### 2 、基本语法
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171625198.png|Open: Pasted image 20250708165458.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171625198.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171625198.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171625198.png](assets/嵌入式C语言/file-20250810171625198.png)
 
 
 ### 3 、不能返回数组
@@ -2349,7 +2349,7 @@ p[4]=55
 ## 返回值 - 返回连续空间类型（指针类型）
 ### 1 、总揽
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171625475.png|Open: Pasted image 20250708140254.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171625475.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171625475.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171625475.png](assets/嵌入式C语言/file-20250810171625475.png)
 
 ### 2 、注意 - 指针指向堆区或者静态存储区
 - 1 返回什么空间类型，就定义一个一模一样的空间类型接收
@@ -2390,7 +2390,7 @@ p[4]=55
 ### 3 、函数返回类型内部实现概述
 - 1 这就是有的人写什么功能的函数能直接先把具体框架定下来
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171625782.png|Open: Pasted image 20250708170313.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171625782.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171625782.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171625782.png](assets/嵌入式C语言/file-20250810171625782.png)
 ### 4 、
 
 
@@ -2401,18 +2401,18 @@ p[4]=55
 [想成为嵌入式程序员应知道的0x10个基本问题（面试必备）_想成为嵌入式工程师0x10-CSDN博客](https://blog.csdn.net/weixin_41034400/article/details/113844418)
 
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171626116.png|Open: Pasted image 20250708170619.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171626116.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171626116.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171626116.png](assets/嵌入式C语言/file-20250810171626116.png)
 
 ## 常见面试题_宏定义
 ### 1 、宏使用注意
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171627078.png|Open: Pasted image 20250708170804.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171627078.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171627078.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171627078.png](assets/嵌入式C语言/file-20250810171627078.png)
 
 - 1 红名和红体，红体和defi之间，至少一个什么空格或者是table键
 
 ### 2 、在宏定义时用乘法
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171627407.png|Open: Pasted image 20250708171058.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171627407.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171627407.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171627407.png](assets/嵌入式C语言/file-20250810171627407.png)
 - 1 用下划线，把每一个那个单词之间做一个区分符
 
 - 1 在宏定义时用乘法，编译的过程中就把它计算好了。运行时候cpu就不用计算了。
@@ -2426,7 +2426,7 @@ p[4]=55
 ## 常见面试题_数据申明
 
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171627725.png|Open: Pasted image 20250708171701.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171627725.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171627725.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171627725.png](assets/嵌入式C语言/file-20250810171627725.png)
 
 - 1 右边的优优先级要高一点
 
@@ -2436,7 +2436,7 @@ p[4]=55
 ## 常见面试题_static
 
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171627922.png|Open: Pasted image 20250708171953.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171627922.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171627922.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171627922.png](assets/嵌入式C语言/file-20250810171627922.png)
 
 
 
@@ -2444,19 +2444,19 @@ p[4]=55
 ## 常见面试题_其他
 ### 1 、关键字const有什么含意?
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171628114.png|Open: Pasted image 20250708172018.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171628114.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171628114.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171628114.png](assets/嵌入式C语言/file-20250810171628114.png)
 
 ### 2 、关键字volatile有什么含意?
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171628217.png|Open: Pasted image 20250708172027.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171628217.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171628217.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171628217.png](assets/嵌入式C语言/file-20250810171628217.png)
 
 ### 3 、位操作
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171628398.png|Open: Pasted image 20250708172112.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171628398.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171628398.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171628398.png](assets/嵌入式C语言/file-20250810171628398.png)
 
 ### 4 、访问固定内存位置
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171628569.png|Open: Pasted image 20250708172137.png]]
-![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171628569.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/嵌入式C语言/file-20250810171628569.png)
+![RK3568（linux学习）/linux基础知识学习/assets/嵌入式C语言/file-20250810171628569.png](assets/嵌入式C语言/file-20250810171628569.png)
 
 - 1 觉得看起来方便就可以
 ### 5、

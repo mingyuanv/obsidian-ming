@@ -195,7 +195,7 @@ description:
 ### 4 、ubuntu中文件颜色的含义
 [“Linux连接档概念”页上的图片](onenote:https://d.docs.live.net/52d4b76bb0ffcf51/Documents/\(RK3568\)Linux驱动开发/Linux入门篇.one#Linux连接档概念&section-id={A6E83B73-B662-46C8-97A8-EEA249D06C37}&page-id={422ACF2A-CB9C-4506-B77D-B2FDB74AD0B6}&object-id={34506C03-D16A-4793-B4F7-2CEA2CC54208}&8F)  ([Web 视图](https://onedrive.live.com/view.aspx?resid=52D4B76BB0FFCF51%21se8c325913f784bf694d429e5ee2ab2be&id=documents&wd=target%28Linux%E5%85%A5%E9%97%A8%E7%AF%87.one%7CA6E83B73-B662-46C8-97A8-EEA249D06C37%2FLinux%E8%BF%9E%E6%8E%A5%E6%A1%A3%E6%A6%82%E5%BF%B5%7C422ACF2A-CB9C-4506-B77D-B2FDB74AD0B6%2F%29&wdpartid=%7bE33CE382-BD46-405B-89C5-8329878CDB2A%7d%7b1%7d&wdsectionfileid=52D4B76BB0FFCF51!sa9a91d2a66d74178a12e2e5ebf58d0b7))
 
-![RK3568（linux学习）/linux基础知识学习/assets/Linux入门篇（ubuntu基础知识）/file-20250810171617992.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/Linux入门篇（ubuntu基础知识）/file-20250810171617992.png)
+![RK3568（linux学习）/linux基础知识学习/assets/Linux入门篇（ubuntu基础知识）/file-20250810171617992.png](assets/Linux入门篇（ubuntu基础知识）/file-20250810171617992.png)
 
 ### 5、
 

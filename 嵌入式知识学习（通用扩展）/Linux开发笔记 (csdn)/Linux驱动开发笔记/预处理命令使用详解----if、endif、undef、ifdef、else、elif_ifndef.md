@@ -27,7 +27,7 @@ tags:
 
 （#define是一种 [宏定义](https://so.csdn.net/so/search?q=%E5%AE%8F%E5%AE%9A%E4%B9%89&spm=1001.2101.3001.7020 "宏定义") 命令，是预处理命令的一种）
 
-![嵌入式知识学习（通用扩展）（未）/Linux开发笔记 (csdn)/Linux驱动开发笔记/assets/预处理命令使用详解----if、endif、undef、ifdef、else、elif\_ifndef/file-20250810171437393.png](嵌入式知识学习（通用扩展）/Linux开发笔记%20(csdn)/Linux驱动开发笔记/assets/预处理命令使用详解----if、endif、undef、ifdef、else、elif_ifndef/file-20250810171437393.png)
+![嵌入式知识学习（通用扩展）（未）/Linux开发笔记 (csdn)/Linux驱动开发笔记/assets/预处理命令使用详解----if、endif、undef、ifdef、else、elif\_ifndef/file-20250810171437393.png](assets/预处理命令使用详解----if、endif、undef、ifdef、else、elif_ifndef/file-20250810171437393.png)
 
 
 ### #include（文件包含命令）

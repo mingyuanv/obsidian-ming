@@ -41,7 +41,7 @@ mingyuan@mingyuan-virtual-machine:~/app$ `sudo cp ./renderer.js /usr/lib/github-
 
 
 [Fetching Data#i4bq](https://zhuanlan.zhihu.com/p/81697702)
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171434520.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux开发工具软件/file-20250810171434520.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171434520.png](assets/linux开发工具软件/file-20250810171434520.png)
 ## 其他
 
 ## ubuntu18.04安装github-desktop - 使用静态链接 Git 替换 GitHub Desktop 内置 Git
@@ -63,7 +63,7 @@ mingyuan@mingyuan-virtual-machine:~/app$ `sudo cp ./renderer.js /usr/lib/github-
 
 ### 创建bin文件夹并把git文件放到里面（要重命名git-2.40.1为git）
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/linux开发工具软件/file-20250810171434622.png|Open: Pasted image 20250629233658.png]]
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171434622.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux开发工具软件/file-20250810171434622.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171434622.png](assets/linux开发工具软件/file-20250810171434622.png)
 - 2 scalar文件来自/usr/lib/github-desktop/resources/app/git/bin/
 
 ### 替换 GitHub Desktop 内置 Git
@@ -231,9 +231,9 @@ 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
 
 
 ## 入门教程
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171434741.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux开发工具软件/file-20250810171434741.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171434741.png](assets/linux开发工具软件/file-20250810171434741.png)
 
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171434816.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux开发工具软件/file-20250810171434816.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171434816.png](assets/linux开发工具软件/file-20250810171434816.png)
 ## 插件
 <span style="background:#b1ffff">roo code</span>
 免费API
@@ -244,7 +244,7 @@ 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
 
 [6.vscode的学习](onenote:https://d.docs.live.net/52d4b76bb0ffcf51/Documents/\(RK3568\)Linux驱动开发/记录.one#6.vscode的学习&section-id={85D26C6C-8708-43BD-A8E6-E3731284E01F}&page-id={DAFE97CC-2E9E-4215-B337-A7FCD98D4809}&end)  ([Web 视图](https://onedrive.live.com/view.aspx?resid=52D4B76BB0FFCF51%21se8c325913f784bf694d429e5ee2ab2be&id=documents&wd=target%28%E8%AE%B0%E5%BD%95.one%7C85D26C6C-8708-43BD-A8E6-E3731284E01F%2F6.vscode%E7%9A%84%E5%AD%A6%E4%B9%A0%7CDAFE97CC-2E9E-4215-B337-A7FCD98D4809%2F%29&wdpartid=%7bAA87B5C9-E83D-4E2F-BF8A-42AD40C5CD56%7d%7b1%7d&wdsectionfileid=52D4B76BB0FFCF51!sda50f1e3d4314bd7a8b6469de58efa8f))
 - **vscode注释插件**
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171434893.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux开发工具软件/file-20250810171434893.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171434893.png](assets/linux开发工具软件/file-20250810171434893.png)
 
 
 ## 其他编辑代码软件
@@ -273,7 +273,7 @@ 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
 
 
 # 4、Allegro PCB    Cadence
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171434982.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux开发工具软件/file-20250810171434982.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171434982.png](assets/linux开发工具软件/file-20250810171434982.png)
 ## 下载 配置
 
 
@@ -285,7 +285,7 @@ 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
 
 
 # 5、FlashFXP(ssh)
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171435060.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux开发工具软件/file-20250810171435060.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171435060.png](assets/linux开发工具软件/file-20250810171435060.png)
 ## 下载 配置
 
 
@@ -296,7 +296,7 @@ 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
 ## 其他
 
 # 6、Xshell(串口终端)
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171435141.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux开发工具软件/file-20250810171435141.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171435141.png](assets/linux开发工具软件/file-20250810171435141.png)
 ## 下载 配置
 [Site Unreachable](https://zhuanlan.zhihu.com/p/49325642623)
 
@@ -309,7 +309,7 @@ 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
 
 
 # 7、clash for windos
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171435228.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux开发工具软件/file-20250810171435228.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171435228.png](assets/linux开发工具软件/file-20250810171435228.png)
 ## 下载 配置 - 飞鸟云
 [飞鸟云](https://feiniaoyun.top/#/dashboard)
 
@@ -323,7 +323,7 @@ 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
 ## 其他
 
 # 8、uedit(二进制)
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171435316.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux开发工具软件/file-20250810171435316.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171435316.png](assets/linux开发工具软件/file-20250810171435316.png)
 ## 下载 配置
 
 
@@ -334,7 +334,7 @@ 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
 ## 其他
 
 # 9、Xftp(ssh)
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171435403.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux开发工具软件/file-20250810171435403.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171435403.png](assets/linux开发工具软件/file-20250810171435403.png)
 ## 下载 配置
 
 
@@ -388,7 +388,7 @@ favicon: https://ife.gtimg.com/build/client/fromcc/official-website/assets/favic
 
 [自己ubuntu22的Clash管理网站](http://192.168.37.129:9999/ui/#/proxies)
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/linux开发工具软件/file-20250810171435482.png|Open: Pasted image 20250711201404.png]]
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171435482.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux开发工具软件/file-20250810171435482.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux开发工具软件/file-20250810171435482.png](assets/linux开发工具软件/file-20250810171435482.png)
 
 ## 实际操作（切换到root用户）
 

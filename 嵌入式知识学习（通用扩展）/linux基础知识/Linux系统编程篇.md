@@ -29,7 +29,7 @@ description:
 ### 1 、标准IO和文件IO
 [“标准IO和文件IO”页上的图片](onenote:https://d.docs.live.net/52d4b76bb0ffcf51/Documents/\(RK3568\)Linux驱动开发/Linux系统编程篇.one#标准IO和文件IO&section-id={21804FE8-FF4F-4E52-8E05-430F20ADA082}&page-id={6C849921-314D-45AB-89B5-6EFD9AC45FCE}&object-id={AF1BD5BB-8EA4-4311-AE5F-24C9FD68FB23}&18)  ([Web 视图](https://onedrive.live.com/view.aspx?resid=52D4B76BB0FFCF51%21se8c325913f784bf694d429e5ee2ab2be&id=documents&wd=target%28Linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%E7%AF%87.one%7C21804FE8-FF4F-4E52-8E05-430F20ADA082%2F%E6%A0%87%E5%87%86IO%E5%92%8C%E6%96%87%E4%BB%B6IO%7C6C849921-314D-45AB-89B5-6EFD9AC45FCE%2F%29&wdpartid=%7b93CEB3F8-53B0-431F-B771-17778F9C2770%7d%7b1%7d&wdsectionfileid=52D4B76BB0FFCF51!sa0ef9df122bf46a3b089fc67fa84876d))
 
-![RK3568（linux学习）/linux基础知识学习/assets/Linux系统编程篇/file-20250810171620631.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/Linux系统编程篇/file-20250810171620631.png)
+![RK3568（linux学习）/linux基础知识学习/assets/Linux系统编程篇/file-20250810171620631.png](assets/Linux系统编程篇/file-20250810171620631.png)
 ### 2 、标准IO和文件IO区别
 [“标准IO和文件IO”页上的图片](onenote:https://d.docs.live.net/52d4b76bb0ffcf51/Documents/\(RK3568\)Linux驱动开发/Linux系统编程篇.one#标准IO和文件IO&section-id={21804FE8-FF4F-4E52-8E05-430F20ADA082}&page-id={6C849921-314D-45AB-89B5-6EFD9AC45FCE}&object-id={AF1BD5BB-8EA4-4311-AE5F-24C9FD68FB23}&27)  ([Web 视图](https://onedrive.live.com/view.aspx?resid=52D4B76BB0FFCF51%21se8c325913f784bf694d429e5ee2ab2be&id=documents&wd=target%28Linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%E7%AF%87.one%7C21804FE8-FF4F-4E52-8E05-430F20ADA082%2F%E6%A0%87%E5%87%86IO%E5%92%8C%E6%96%87%E4%BB%B6IO%7C6C849921-314D-45AB-89B5-6EFD9AC45FCE%2F%29&wdpartid=%7b93CEB3F8-53B0-431F-B771-17778F9C2770%7d%7b1%7d&wdsectionfileid=52D4B76BB0FFCF51!sa0ef9df122bf46a3b089fc67fa84876d))
 
@@ -91,8 +91,8 @@ description:
 > mode 参数 用于指定文件的访问权限， 即文件的读、 写、 执行权限等
 
 mode: 权限掩码
-![RK3568（linux学习）/linux基础知识学习/assets/Linux系统编程篇/file-20250810171621177.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/Linux系统编程篇/file-20250810171621177.png)
-![RK3568（linux学习）/linux基础知识学习/assets/Linux系统编程篇/file-20250810171621477.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/Linux系统编程篇/file-20250810171621477.png)
+![RK3568（linux学习）/linux基础知识学习/assets/Linux系统编程篇/file-20250810171621177.png](assets/Linux系统编程篇/file-20250810171621177.png)
+![RK3568（linux学习）/linux基础知识学习/assets/Linux系统编程篇/file-20250810171621477.png](assets/Linux系统编程篇/file-20250810171621477.png)
 
 ### 5、代码举例
 [“文件IO之open函数”页上的图片](onenote:https://d.docs.live.net/52d4b76bb0ffcf51/Documents/\(RK3568\)Linux驱动开发/Linux系统编程篇.one#文件IO之open函数&section-id={21804FE8-FF4F-4E52-8E05-430F20ADA082}&page-id={C9D811A7-7F46-4BCD-9ECC-37109B5C8893}&object-id={A8B1197D-CBBF-4004-9D53-07882E961CA7}&66)  ([Web 视图](https://onedrive.live.com/view.aspx?resid=52D4B76BB0FFCF51%21se8c325913f784bf694d429e5ee2ab2be&id=documents&wd=target%28Linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%E7%AF%87.one%7C21804FE8-FF4F-4E52-8E05-430F20ADA082%2F%E6%96%87%E4%BB%B6IO%E4%B9%8Bopen%E5%87%BD%E6%95%B0%7CC9D811A7-7F46-4BCD-9ECC-37109B5C8893%2F%29&wdpartid=%7b5296215F-32A2-4A8B-B8B1-BB43AF9BD316%7d%7b1%7d&wdsectionfileid=52D4B76BB0FFCF51!sa0ef9df122bf46a3b089fc67fa84876d))

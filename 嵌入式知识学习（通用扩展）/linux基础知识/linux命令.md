@@ -134,7 +134,7 @@
 [“Linux文件系统概念”页上的图片](onenote:https://d.docs.live.net/52d4b76bb0ffcf51/Documents/\(RK3568\)Linux驱动开发/Linux入门篇.one#Linux文件系统概念&section-id={A6E83B73-B662-46C8-97A8-EEA249D06C37}&page-id={6E4519D4-1314-4569-A483-18D49397300F}&object-id={35F02A03-235E-4F4A-8B35-8A826E806BF2}&23)  ([Web 视图](https://onedrive.live.com/view.aspx?resid=52D4B76BB0FFCF51%21se8c325913f784bf694d429e5ee2ab2be&id=documents&wd=target%28Linux%E5%85%A5%E9%97%A8%E7%AF%87.one%7CA6E83B73-B662-46C8-97A8-EEA249D06C37%2FLinux%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5%7C6E4519D4-1314-4569-A483-18D49397300F%2F%29&wdpartid=%7bFC8C72FC-7BE5-4B57-8E95-94F6D44E5513%7d%7b1%7d&wdsectionfileid=52D4B76BB0FFCF51!sa9a91d2a66d74178a12e2e5ebf58d0b7))
 
 - 1 df -Th
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux命令/file-20250810171435643.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux命令/file-20250810171435643.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux命令/file-20250810171435643.png](assets/linux命令/file-20250810171435643.png)
 
 - 1 分区即为磁盘
 ### 19、gcc（本地c语言编译器）
@@ -150,9 +150,9 @@
 ### 21、ps -aux  -查看进程
 
 
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux命令/file-20250810171435767.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux命令/file-20250810171435767.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux命令/file-20250810171435767.png](assets/linux命令/file-20250810171435767.png)
 
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux命令/file-20250810171435882.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux命令/file-20250810171435882.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux命令/file-20250810171435882.png](assets/linux命令/file-20250810171435882.png)
 
 - 1 ps -a          显示终端上的所有进程
 - 1 ps -au        显示我们进程的归属用户以及相关的内存使用情况
@@ -444,7 +444,7 @@ command -v lzop
 
 
 ## file 文件
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux命令/file-20250810171435970.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux命令/file-20250810171435970.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux命令/file-20250810171435970.png](assets/linux命令/file-20250810171435970.png)
 
 
 
@@ -575,17 +575,17 @@ dmesg -T
 
 ## size命令（查看可执行文件的内存分布）
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/linux命令/file-20250810171436059.png|Open: Pasted image 20250707224443.png]]
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux命令/file-20250810171436059.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux命令/file-20250810171436059.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux命令/file-20250810171436059.png](assets/linux命令/file-20250810171436059.png)
 
 
 
 ## vsp（vi编辑器的命令）
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/linux命令/file-20250810171436144.png|Open: Pasted image 20250708220557.png]]
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux命令/file-20250810171436144.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux命令/file-20250810171436144.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux命令/file-20250810171436144.png](assets/linux命令/file-20250810171436144.png)
 
 ## gcc链接多个文件生成可执行文件
 [[嵌入式知识学习（通用扩展）/linux基础知识/assets/linux命令/file-20250810171436234.png|Open: Pasted image 20250708220720.png]]
-![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux命令/file-20250810171436234.png](嵌入式知识学习（通用扩展）/linux基础知识/assets/linux命令/file-20250810171436234.png)
+![嵌入式知识学习（通用扩展）（未）/边开发边积累/assets/linux命令/file-20250810171436234.png](assets/linux命令/file-20250810171436234.png)
 
 
 ## 查看公网IP命令
